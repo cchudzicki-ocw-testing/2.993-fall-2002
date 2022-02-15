@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: Name Plate Design Exercise
-type: OCWFile
 uid: c567ab2f-245b-11f0-7e6e-d19f60808128
 ---
