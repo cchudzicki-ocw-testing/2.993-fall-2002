@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section provides notes on using the OMAX\xAE layout software and\
+  \ the OMAX\xAE Water-jet Machine."
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

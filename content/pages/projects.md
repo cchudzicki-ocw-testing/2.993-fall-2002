@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This presentation shows the progress and finished projects of one group
+  of students.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
